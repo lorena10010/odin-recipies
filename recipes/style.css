@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    border: 2px solid black;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+.main-header {
+    margin-top: 55px;
+
+}
+
+.recipe-card {
+    margin-top: 50px;
+}
+
+h1, h2{
+    color: rgb(207, 33, 48);
+}
+
+.ingredients-list {
+    font-size: 16px;
+}
+
